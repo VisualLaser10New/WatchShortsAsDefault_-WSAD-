@@ -1,4 +1,4 @@
-# WatchShortsAsDefault_-WSAD-
+# WatchShortsAsDefault (WSAD)
 Watch Youtube shorts as normal video
 
 ## Installation
